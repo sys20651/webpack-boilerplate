@@ -1,0 +1,1 @@
+// alert("Hello, It's a Webpack Static Template Boilerplate");
